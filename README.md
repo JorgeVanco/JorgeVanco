@@ -25,5 +25,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg"width="40" height="40" title="Neo4j" alt="Neo4j"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg"width="40" height="40" title="Redis" alt="Redis"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"width="40" height="40" title="Arduino" alt="Arduino"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"width="40" height="40" title="Linux" alt="Linux"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"width="40" height="40" title="React" alt="React"/>&nbsp;
 </div>
