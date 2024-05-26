@@ -32,3 +32,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React" alt="React" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash" style="padding-right:10px;"/>&nbsp;
 </div>
+
+---
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
