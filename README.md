@@ -1,4 +1,7 @@
-## Hi there 👋
+# Jorge Vančo Sampedro
+
+### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
+✉️ [202200473@alu.comillas.edu](mailto:202200473@alu.comillas.edu)  
 
 <!--
 **JorgeVanco/JorgeVanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,5 +38,6 @@ Here are some ideas to get you started:
 
 ---
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeVanco&count_private=true&show_icons=true&theme=cobalt)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
