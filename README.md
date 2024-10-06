@@ -36,10 +36,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash" style="padding-right:10px;"/>&nbsp;
 </div>
 
----
+<!-- ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeVanco&count_private=true&show_icons=true&theme=cobalt)
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeVanco&count_private=true&show_icons=true&theme=cobalt)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&layout=compact&theme=vision-friendly-dark&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&layout=compact&theme=vision-friendly-dark&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeVanco&layout=donut&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)-->
 
