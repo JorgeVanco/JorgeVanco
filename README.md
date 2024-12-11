@@ -19,6 +19,17 @@ Here are some ideas to get you started:
 -->
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=image-generator&show_owner=true)](https://github.com/image-generator/separator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto-final-Machine-Learning&show_owner=true)](https://github.com/JorgeVanco/Proyecto-final-Machine-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto_final_Fundamentos_Inteligencia_Artificial&show_owner=true)](https://github.com/JorgeVanco/Proyecto_final_Fundamentos_Inteligencia_Artificial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=mp3_player&show_owner=true)](https://github.com/JorgeVanco/mp3_player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=movie-recommender&show_owner=true)](https://github.com/JorgeVanco/movie-recommender)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=leer_partituras_python&show_owner=true)](https://github.com/JorgeVanco/leer_partituras_python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=EstudiaEbau&show_owner=true)](https://github.com/JorgeVanco/EstudiaEbau)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto_algoritmos_gestion_vuelos&show_owner=true)](https://github.com/JorgeVanco/Proyecto_algoritmos_gestion_vuelos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=randomfun&show_owner=true)](https://github.com/JorgeVanco/randomfun)
+
+--- 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" title="Python" alt="Python" style="padding-right:10px;"/>&nbsp;
