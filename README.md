@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=image-generator&show_owner=true)](https://github.com/image-generator/separator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=image-generator&show_owner=true)](https://github.com/JorgeVanco/image-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=GPT-from-scratch&show_owner=true)](https://github.com/JorgeVanco/GPT-from-scratch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto-final-Machine-Learning&show_owner=true)](https://github.com/JorgeVanco/Proyecto-final-Machine-Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto_final_Fundamentos_Inteligencia_Artificial&show_owner=true)](https://github.com/JorgeVanco/Proyecto_final_Fundamentos_Inteligencia_Artificial)
