@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 -->
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=image-generator&show_owner=true)](https://github.com/JorgeVanco/image-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=GPT-from-scratch&show_owner=true)](https://github.com/JorgeVanco/GPT-from-scratch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=AI-Scheduler&show_owner=true)](https://github.com/JorgeVanco/AI-Scheduler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=stable-diffusion-from-scratch&show_owner=true)](https://github.com/JorgeVanco/stable-diffusion-from-scratch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto-final-Machine-Learning&show_owner=true)](https://github.com/JorgeVanco/Proyecto-final-Machine-Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto_final_Fundamentos_Inteligencia_Artificial&show_owner=true)](https://github.com/JorgeVanco/Proyecto_final_Fundamentos_Inteligencia_Artificial)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=mp3_player&show_owner=true)](https://github.com/JorgeVanco/mp3_player)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=movie-recommender&show_owner=true)](https://github.com/JorgeVanco/movie-recommender)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=leer_partituras_python&show_owner=true)](https://github.com/JorgeVanco/leer_partituras_python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=EstudiaEbau&show_owner=true)](https://github.com/JorgeVanco/EstudiaEbau)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto_algoritmos_gestion_vuelos&show_owner=true)](https://github.com/JorgeVanco/Proyecto_algoritmos_gestion_vuelos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=randomfun&show_owner=true)](https://github.com/JorgeVanco/randomfun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=image-generator&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/image-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=GPT-from-scratch&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/GPT-from-scratch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=AI-Scheduler&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/AI-Scheduler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=stable-diffusion-from-scratch&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/stable-diffusion-from-scratch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto-final-Machine-Learning&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/Proyecto-final-Machine-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto_final_Fundamentos_Inteligencia_Artificial&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/Proyecto_final_Fundamentos_Inteligencia_Artificial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=mp3_player&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/mp3_player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=movie-recommender&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/movie-recommender)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=leer_partituras_python&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/leer_partituras_python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=EstudiaEbau&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/EstudiaEbau)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=Proyecto_algoritmos_gestion_vuelos&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/Proyecto_algoritmos_gestion_vuelos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=randomfun&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/randomfun)
 
 --- 
 ### :hammer_and_wrench: Languages and Tools :
