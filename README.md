@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=GPT-from-scratch&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/LLM-from-scratch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=LLM-from-scratch&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/LLM-from-scratch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=image-generator&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/image-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=AI-Scheduler&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/AI-Scheduler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=stable-diffusion-from-scratch&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/stable-diffusion-from-scratch)
