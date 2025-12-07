@@ -1,7 +1,7 @@
 # Jorge Vančo Sampedro
 
 ### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
-✉️ [202200473@alu.comillas.edu](mailto:202200473@alu.comillas.edu)  
+✉️ [jorge.vanco.sampedro@gmail.com](mailto:jorge.vanco.sampedro@gmail.com)  
 
 <!--
 **JorgeVanco/JorgeVanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
