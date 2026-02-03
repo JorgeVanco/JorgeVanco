@@ -1,6 +1,6 @@
 # Jorge Vančo Sampedro
 
-### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
+### **Mathematical Engineering & AI @ ICAI | CS Exchange Student @ UIUC**
 ✉️ [jorge.vanco.sampedro@gmail.com](mailto:jorge.vanco.sampedro@gmail.com)
 
 🌐 [Personal Website](https://jorgevanco.github.io/)
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=LLM-from-scratch&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/LLM-from-scratch)
@@ -35,7 +37,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeVanco&repo=randomfun&show_owner=true&theme=transparent)](https://github.com/JorgeVanco/randomfun)
 
 --- 
-### :hammer_and_wrench: Languages and Tools :
+-->
+
+<!-- ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" title="Python" alt="Python" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" title="Pytorch" alt="Pytorch" style="padding-right:10px;"/>&nbsp;
@@ -51,7 +55,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash" style="padding-right:10px;"/>&nbsp;
-</div>
+</div> -->
 
 <!-- ---
 
