@@ -1,5 +1,6 @@
 # Jorge Vančo Sampedro
 
+### **Research Engineer @ ElevenLabs**
 ### **Mathematical Engineering & AI @ ICAI | CS Exchange Student @ UIUC**
 ✉️ [jorge.vanco.sampedro@gmail.com](mailto:jorge.vanco.sampedro@gmail.com)
 
